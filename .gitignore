@@ -1,0 +1,3 @@
+# Ignore virtual environments
+im_venv/
+.env/
