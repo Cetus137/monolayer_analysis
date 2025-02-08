@@ -1,3 +1,4 @@
 # Ignore virtual environments
 im_venv/
 im_env
+.vscode
